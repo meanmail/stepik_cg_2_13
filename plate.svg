@@ -1,5 +1,5 @@
 <svg width="1440" height="200">
-<rect x="0" y="21" width="1440" height="160" fill="rgba(222,222,222,0.5)"/>
+<rect x="0" y="20" width="1440" height="160" fill="rgba(222,222,222,0.5)"/>
 <rect x="51" y="1" width="180" height="180" opacity="0.75" fill="tomato" stroke-dasharray="10 5" stroke-width="2" stroke="gray"/>
 <circle cx="359" cy="91" r="90" opacity="0.75" fill="lightblue" stroke-dasharray="10 5" stroke-width="2" stroke="gray"/>
 <polygon points="160,199 340,199 250,43" opacity="0.75" fill="lightgreen" stroke-width="4" stroke="darkgray"/>
